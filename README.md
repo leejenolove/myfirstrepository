@@ -6,6 +6,6 @@
 <img width="" height="" src="./png/고양이 사진.jpg"></img>
 
 ##4주차과제
-<img width="" height="" src="./png/4주차과재.JPG"></img>
+<img width="" height="" src="./png/it 융합기술 4주차과제.JPG"></img>
     
     
